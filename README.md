@@ -12,8 +12,9 @@ Sou Erick Silva, sou programador front-end, atualmente estou aprendendo e criand
 <a href="https://www.instagram.com/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-
+<br>
+<br>
 <a href="https://www.linkedin.com/in/ericksilva91/">
-<img src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
