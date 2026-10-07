@@ -38,15 +38,6 @@ Meu foco é conectar o desenvolvimento de software a soluções inteligentes, cr
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=6&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
-
 ### 🌐 Vamos nos conectar?
 
 <p align="left">
